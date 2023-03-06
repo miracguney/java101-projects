@@ -9,3 +9,6 @@ Java ile kullanıcıdan alınan para değerinin KDV'li fiyatını ve KDV tutarı
 
 #### Üçgenin alanını hesaplayan program
 Üç kenar uzunluğunu kullanıcıdan aldığınız üçgenin alanını hesaplayan program
+
+#### Daire diliminin alanı bulan program
+Yarıçapı r, merkez açısının ölçüsü 𝛼 olan daire diliminin alanı bulan program
