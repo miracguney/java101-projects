@@ -12,3 +12,6 @@ Java ile kullanıcıdan alınan para değerinin KDV'li fiyatını ve KDV tutarı
 
 #### Daire diliminin alanı bulan program
 Yarıçapı r, merkez açısının ölçüsü 𝛼 olan daire diliminin alanı bulan program
+
+#### Vücut Kitle İndeksi Hesaplama
+Formüle göre kullanıcının "Vücut Kitle İndeks" değerini hesaplayıp ekrana yazdıran program. Formül Kilo (kg) / Boy(m) * Boy(m)
