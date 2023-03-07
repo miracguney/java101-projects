@@ -15,3 +15,6 @@ Yarıçapı r, merkez açısının ölçüsü 𝛼 olan daire diliminin alanı b
 
 #### Vücut Kitle İndeksi Hesaplama
 Formüle göre kullanıcının "Vücut Kitle İndeks" değerini hesaplayıp ekrana yazdıran program. Formül Kilo (kg) / Boy(m) * Boy(m)
+
+#### Manav Kasa Programı
+Java ile kullanıcıların manavdan almış oldukları ürünlerin kilogram değerlerine göre toplam tutarını ekrana yazdıran program
