@@ -22,3 +22,6 @@ Java ile kullanıcıların manavdan almış oldukları ürünlerin kilogram değ
 
 #### * Kullanıcı Girişi Programı
 kullanıcı adi ve şifre kontrolu yapan program
+
+#### * Sınıf gecme durumunu hesaplayan program
+Eğer girilen ders notları 0 veya 100 arasında değil ise ortalamaya katılmayan program.
