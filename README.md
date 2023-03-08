@@ -27,7 +27,10 @@ kullanıcı adi ve şifre kontrolu yapan program
 Eğer girilen ders notları 0 veya 100 arasında değil ise ortalamaya katılmayan program.
 
 #### * Hava sıcaklığına göre etkinlik öneren program
-Sıcaklık 5'dan küçük ise "Kayak" yapmayı önerirr
-Sıcaklık 5 ve 15 arasında ise "Sinema" etkinliğini önerir
-Sıcaklık 15 ve 25 arasında ise "Piknik" etkinliğini önerir
+Sıcaklık 5'dan küçük ise "Kayak" yapmayı önerirr, 
+Sıcaklık 5 ve 15 arasında ise "Sinema" etkinliğini önerir, 
+Sıcaklık 15 ve 25 arasında ise "Piknik" etkinliğini önerir, 
 Sıcaklık 25'ten büyük ise "Yüzme" etkinliğini önerir
+
+#### * Sıralama
+Girilen 3 sayıyı "küçükten büyüğe" sıralayan program
