@@ -12,7 +12,7 @@ public class KullaniciGirisi {
         sifre = in.nextLine();
 
 
-        if((kullaniciAdi.equals("p")) && (sifre.equals("a"))){
+        if((kullaniciAdi.equals("patika")) && (sifre.equals("java"))){
             System.out.println("Giriş Başarılı");
         }else{
             System.out.println("Giriş Başarısız Şifreyi sıfırlamak istermisiniz (evet,hayır)");
