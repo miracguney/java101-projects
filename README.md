@@ -34,3 +34,6 @@ Sıcaklık 25'ten büyük ise "Yüzme" etkinliğini önerir
 
 #### * Sıralama
 Girilen 3 sayıyı "küçükten büyüğe" sıralayan program
+
+#### * Burç bulma programı
+Doğum günü ve ayınızı girdikten sonra burcunuzu çıktı veren program.
