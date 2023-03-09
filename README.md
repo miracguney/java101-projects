@@ -40,3 +40,6 @@ Doğum günü ve ayınızı girdikten sonra burcunuzu çıktı veren program.
 
 #### * Uçak bileti fiyatı hesaplayan program
 Kullanıcıdan Mesafe (KM), yaşı ve yolculuk tipi (Tek Yön, Gidiş-Dönüş) bilgilerini alıp. Mesafe başına ücret 0,10 TL / km olarak alığ. İlk olarak uçuşun toplam fiyatını hesaplayıp ve sonrasında ki koşullara göre müşteriye indirimler uygulayan program
+
+#### * Çin Zodyağı
+Java ile kullanıcıdan doğum tarihini alıp Çin Zodyağı değerini hesaplayan program 
