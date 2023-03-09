@@ -2,7 +2,6 @@ import java.util.Scanner;
 
 public class NotOrtalamasi {
     public static void main(String[] args) {
-
         Scanner in = new Scanner(System.in);
 
         System.out.println("Belirtilen Derslerin notlarını giriniz");

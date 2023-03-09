@@ -3,6 +3,11 @@ import java.util.Scanner;
 public class ManavKasaProgrami {
         public static void main(String[] args){
 
+
+
+
+
+
             double Armut =2.14, Elma = 3.67, Domates = 1.11, Muz = 0.95, Patlıcan = 5.00;
             double armut, elma, domates, muz, patlıcan;
             double  a, e, d, m, p, total;
@@ -44,6 +49,7 @@ public class ManavKasaProgrami {
         }
         static void soru(String ad){
             System.out.print(ad + "Kaç Kilo ? : ");
+
 
         }
 }
