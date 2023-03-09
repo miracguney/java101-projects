@@ -1,3 +1,5 @@
+package KosulluIfadeler;
+
 import java.util.Scanner;
 
 public class HavaSicakligi {
