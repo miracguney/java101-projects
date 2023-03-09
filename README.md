@@ -2,6 +2,10 @@
 
 ## Java ile geliştirlilmiş projeler
 
+<details>
+<summary>Koşullu İfadeler</summary>
+  <br/>
+  
 #### * Not ortalaması hesaplayan program
 Java ile derslerinin sınav puanlarını kullanıcıdan alan ve ortalamalarını hesaplayıp ekrana bastırılan program
 
@@ -43,3 +47,19 @@ Kullanıcıdan Mesafe (KM), yaşı ve yolculuk tipi (Tek Yön, Gidiş-Dönüş) 
 
 #### * Çin Zodyağı
 Java ile kullanıcıdan doğum tarihini alıp Çin Zodyağı değerini hesaplayan program 
+</details>
+
+</br>
+
+
+<details>
+<summary>Döngüler</summary>
+  <br/>
+  
+#### * Çift Sayı Bulma
+While döngüsü ile girilen sayıya kadar olan çift sayıları ekrana yazdıran program
+  
+  
+</details>
+</br>
+
