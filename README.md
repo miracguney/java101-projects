@@ -61,6 +61,9 @@ While döngüsü ile girilen sayıya kadar olan çift sayıları ekrana yazdıra
 
 #### * Döngüler ile ortalama hesaplayan program
 Java döngüler ile 0'dan girilen sayıya kadar olan sayılardan 3 ve 4'e tam bölünen sayıların ortalamasını hesaplayan program
+
+#### * Çift sayıları bulan program
+Java döngüler ile tek bir sayı girilene kadar kullanıcıdan girişleri kabul eden ve girilen değerlerden çift ve 4'ün katları olan sayıları toplayıp ekrana basan program
   
   
 </details>
