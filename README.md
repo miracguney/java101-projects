@@ -64,8 +64,10 @@ Java döngüler ile 0'dan girilen sayıya kadar olan sayılardan 3 ve 4'e tam b�
 
 #### * Çift sayıları bulan program
 Java döngüler ile tek bir sayı girilene kadar kullanıcıdan girişleri kabul eden ve girilen değerlerden çift ve 4'ün katları olan sayıları toplayıp ekrana basan program
-  
-  
+
+#### * Kuvvet bulma program
+Java döngüler ile girilen sayıya kadar olan 4 ve 5'in kuvvetlerini ekrana yazdıran program
+
 </details>
 </br>
 
