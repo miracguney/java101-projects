@@ -68,6 +68,9 @@ Java döngüler ile tek bir sayı girilene kadar kullanıcıdan girişleri kabul
 #### * Kuvvet bulma program
 Java döngüler ile girilen sayıya kadar olan 4 ve 5'in kuvvetlerini ekrana yazdıran program
 
+#### * Kombinasyon bulma program
+Java ile kombinasyon hesaplayan program
+
 </details>
 </br>
 
