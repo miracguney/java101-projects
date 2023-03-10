@@ -58,6 +58,9 @@ Java ile kullanıcıdan doğum tarihini alıp Çin Zodyağı değerini hesaplaya
   
 #### * Çift Sayı Bulma
 While döngüsü ile girilen sayıya kadar olan çift sayıları ekrana yazdıran program
+
+#### * Döngüler ile ortalama hesaplayan program
+Java döngüler ile 0'dan girilen sayıya kadar olan sayılardan 3 ve 4'e tam bölünen sayıların ortalamasını hesaplayan program
   
   
 </details>
