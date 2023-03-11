@@ -71,6 +71,9 @@ Java döngüler ile girilen sayıya kadar olan 4 ve 5'in kuvvetlerini ekrana yaz
 #### * Kombinasyon bulma program
 Java ile kombinasyon hesaplayan program
 
+#### * Üss bulma program
+Java ile kullanıcının girdiği değerler ile üslü sayı hesaplayan programı "For Döngüsü" kullanılarak yapılmıştır
+
 </details>
 </br>
 
