@@ -74,6 +74,8 @@ Java ile kombinasyon hesaplayan program
 #### * Üss bulma program
 Java ile kullanıcının girdiği değerler ile üslü sayı hesaplayan programı "For Döngüsü" kullanılarak yapılmıştır
 
+#### * Armstrong Sayilar programı
+N haneli bir sayının basamaklarının n’inci üstlerinin toplamı, sayının kendisine eşitse, böyle sayılara Armstrong sayı denir. Girilen sayının armstrong olup olmadığını belirten programdır
 </details>
 </br>
 
