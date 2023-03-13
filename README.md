@@ -76,6 +76,9 @@ Java ile kullanıcının girdiği değerler ile üslü sayı hesaplayan program�
 
 #### * Armstrong Sayilar programı
 N haneli bir sayının basamaklarının n’inci üstlerinin toplamı, sayının kendisine eşitse, böyle sayılara Armstrong sayı denir. Girilen sayının armstrong olup olmadığını belirten programdır
+
+#### * Harmonik Sayılar
+Java ile girilen sayının harmonik serisini bulan program
 </details>
 </br>
 
